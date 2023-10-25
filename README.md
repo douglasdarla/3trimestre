@@ -1,2 +1,2 @@
-# DOUGLAS DARLÃ DA SILVA RODRIGUES 07 
-# GIOVANA MARIA DO NASCIMENTO STANLEY 15
+# Lucas Mattera Bottino N°30
+# Nathalia Karoline Gonçalves Silva N°35

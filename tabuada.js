@@ -12,5 +12,5 @@ frm.addEventListener("submit", (e) =>{
         resposta = resposta + numero + " x " + i + " = " + (numero * i) + "\n"
     }
     resp.innerText = resposta
-   
+    
 })
